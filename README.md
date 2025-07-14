@@ -14,3 +14,5 @@ KernellNoWebSocket.dll (should be in Mods folder in MelonLoader, remove their .d
 <img width="" height="" src="https://raw.githubusercontent.com/Harmonyasha/Kernel-Free-Leak/refs/heads/main/image.png">
 <img width="" height="" src="https://raw.githubusercontent.com/Harmonyasha/Kernel-Free-Leak/refs/heads/main/image1.png">
 <img width="" height="" src="https://raw.githubusercontent.com/Harmonyasha/Kernel-Free-Leak/refs/heads/main/image2.png">
+<img width="" height="" src="https://raw.githubusercontent.com/Harmonyasha/Kernel-Free-Leak/refs/heads/main/image3.png">
+<img width="" height="" src="https://raw.githubusercontent.com/Harmonyasha/Kernel-Free-Leak/refs/heads/main/image4.png">
